@@ -1,0 +1,10 @@
+.all{
+    width: 130%;
+    background-color: black;
+    padding: 50px;
+}
+.card{
+    background-color: black;
+    color: white;
+    border-color: white;
+}
